@@ -2,7 +2,7 @@
 
 Navi is a voice-controlled application that allows users to retrieve useful information ranging from the latest news articles, cryptocurrency, the weather, etc.
 
-<img src=""></img>
+<img src="/public/navi.gif"></img>
 
 Link to live site: [https://navi-voice-assistant.herokuapp.com/]
 
