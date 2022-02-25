@@ -8,10 +8,10 @@ import NewsCard from '../NewsCard/NewsCard';
 
 
 const infoCards = [
-    { color: '#00838f', title: 'Latest News', text: 'Give me the latest news' },
-    { color: '#1565c0', title: 'News by Categories', info: 'Business, Entertainment, General, Health, Science, Sports, Technology', text: 'Give me the latest Technology news' },
-    { color: '#4527a0', title: 'News by Terms', info: 'Bitcoin, PlayStation 5, Smartphones, Donald Trump...', text: 'What\'s up with PlayStation 5' },
-    { color: '#283593', title: 'News by Sources', info: 'CNN, Wired, BBC News, Time, IGN, Buzzfeed, ABC News...', text: 'Give me the news from CNN' },
+    { color: '#22272c', title: 'Hear Latest News', info: 'CNN, Washington Post, BBC News',  text: 'Give me the latest news' },
+    { color: '#22272c', title: 'Utilize Different Tools ', info: 'Weather Checker, Simple Calculator, Calendar Checker', text: 'What\'s the weather in Boston?' },
+    { color: '#22272c', title: 'Check out Crypto', info: 'Bitcoin General Info.', text: 'What\'s the current price of Bitcoin?' },
+    { color: '#22272c', title: 'Have a Chat', info: 'Navi would love to to tell you about itself', text: 'How are you?' },
 ];
 
 

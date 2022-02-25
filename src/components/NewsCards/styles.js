@@ -16,7 +16,7 @@ export default makeStyles({
         height: '45vh',
         padding: '5%',
         borderRadius: 10,
-        color: 'white'
+        color: '#c0ffee'
     },
     infoCard: {
         display: 'flex',
