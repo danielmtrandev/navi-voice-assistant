@@ -44,7 +44,7 @@ const App = () => {
             }
         })
     }, [])
-        
+    
     return (
         <div>
             <div className={classes.logoContainer}>
